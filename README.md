@@ -34,8 +34,8 @@ Olá! Sou estudante de Ciência da Computação, atualmente no 3º período, com
 Busco uma oportunidade como estagiário ou desenvolvedor júnior para aplicar meus conhecimentos, crescer com o time e contribuir com soluções reais.
 
 📫 **Contato**  
-- Email: seuemail@email.com  
-- LinkedIn: [seulinkedin](https://linkedin.com/in/seulinkedin)
+- Email: portela.arthur0@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/arthur-lopes-/
 
 ---
 
